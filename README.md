@@ -1,1 +1,1 @@
-# 70-Sports-Image-Classification-InceptionV3
+# 70-Sports-Image-Classification-VGG16-InceptionV3
